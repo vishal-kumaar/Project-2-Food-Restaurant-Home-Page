@@ -18,6 +18,7 @@ img[alt="logo"] {
     position: absolute;
     left: 120px;
     width: 120px;
+    cursor: pointer;
 }
 
 .list {
