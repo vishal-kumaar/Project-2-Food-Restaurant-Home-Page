@@ -1,8 +1,8 @@
-## 🔗Project 1 Link
+## 🔗Project 2 Link
 https://html5-css3-project-02.netlify.app/
 
 
-## ✨ Project-1: Street Style Landing Page ✨
+## ✨ Project-2: Food Restaurant Home Page ✨
 
 This assignment is written in **HTML5 and CSS3** which is given in **"JavaScript Full Stack Web Developer Bootcamp"** by **iNeuron**.
 
