@@ -1,5 +1,5 @@
 ## 🔗Project 1 Link
-https://html5-css3-project-01.netlify.app/
+https://html5-css3-project-02.netlify.app/
 
 
 ## ✨ Project-1: Street Style Landing Page ✨
