@@ -1,4 +1,4 @@
-## 🔗Project 2 Link
+## 🔗Project Link
 https://html5-css3-project-02.netlify.app/
 
 
