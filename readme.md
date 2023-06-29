@@ -1,6 +1,5 @@
 ## 🔗Project Link
-https://html5-css3-project-02.netlify.app/
-
+https://food-restaurant-home-site.vercel.app/
 
 ## ✨ Project-2: Food Restaurant Home Page ✨
 
