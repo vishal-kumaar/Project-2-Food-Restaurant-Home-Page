@@ -1,5 +1,5 @@
 ## 🔗Project Link
-https://food-restaurant-home-site.vercel.app/
+https://vishal-kumaar.github.io/Project-2-Food-Restaurant-Home-Page/
 
 ## ✨ Project-2: Food Restaurant Home Page ✨
 
